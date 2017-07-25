@@ -1,7 +1,7 @@
 #!/bin/sh
-# for execution : sh <file-name.sh> <file name to open and check for non vowel words>
-#               : chmod 744 <file-name.sh>
-#               : ./<file-name.sh> <file name to open and check for non vowel words>
+# for execution :$ sh <file-name.sh> <file name to open and check for non vowel words>
+#               :$ chmod 744 <file-name.sh>
+#               :$ ./<file-name.sh> <file name to open and check for non vowel words>
 #
 echo "Welcome"
 echo "Entered File Is : "$1
